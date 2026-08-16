@@ -1,4 +1,4 @@
-**BY: HIJARSTORIES**
+**BY: HijarProject**
 
 # 🐱 ¿Saldrías conmigo? — Cita Nerd con Gatitos
 
