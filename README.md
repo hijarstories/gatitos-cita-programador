@@ -1,4 +1,4 @@
-**HijarProje.,ct**
+**HijarProject**
 
 # 🐱 ¿Saldrías conmigo? — Cita Nerd 🐱
 
