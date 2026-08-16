@@ -1,4 +1,4 @@
-**BY: HijarProject**
+**HijarProject**
 
 # 🐱 ¿Saldrías conmigo? — Cita Nerd 🐱
 
