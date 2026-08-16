@@ -3,7 +3,7 @@ import './globals.css';
 import { Analytics } from "@vercel/analytics/next"
 
 export const metadata: Metadata = {
-  title: '🐱 ¿Saldrías ckkonmigo? 🐱',
+  title: '🐱 ¿Saldrías coooonmigo? 🐱',
   description: 'Cita nerd con estilo meme y gatitos.',
 };
 
