@@ -1,6 +1,6 @@
 **BY: HijarProject**
 
-# 🐱 ¿Saldrías conmigo? — Cita Nerd con Gatitos
+# 🐱 ¿Saldrías conmigo? — Cita Nerd 🐱
 
 > _Una aplicación interactiva para pedir una cita de forma creativa y nerd. Ahora en React + Next.js._
 
